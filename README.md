@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey there! I'm Nil Basora ([@nilbasora](https://twitter.com/nilbasora)) 👋
 
-<!--
-**nilbasora/nilbasora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just a junior backend developer focus on DS/ML 🤖
 
-Here are some ideas to get you started:
+I'm currently working with a research team dedicated to glycemic control in diabetic patients through data analysis and deep learning. 💉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trying to build and learn things about Data Science, Deep learning/Machine learning, Python, Docker, JS (with NextJS), API's and everything I can 🤓
+
+You can find me on:
+
+* [My website: nilbasora.dev](https://nilbasora.dev/)
+* [Twitter as @nilbasora](https://twitter.com/nilbasora)
+* [GitHub as @nilbasora (you are here)](https://github.com/nilbasora)
+* [LinkedIn](https://linkedin.com/in/nilbasora/)
