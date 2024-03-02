@@ -4,7 +4,7 @@ I'm just a junior backend developer focus on DS/ML 🤖
 
 I'm currently working with a research team dedicated to glycemic control in diabetic patients through data analysis and deep learning. 💉
 
-Trying to build and learn things about Data Science, Deep learning/Machine learning, Python, Docker, JS (with NextJS), API's and everything I can 🤓
+Trying to build and learn things about Data Science, Deep learning/Machine learning, Python, Docker, JS (with React), API's and everything I can 🤓
 
 You can find me on:
 
