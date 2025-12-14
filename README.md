@@ -1,6 +1,6 @@
 ### Hey there! I'm Nil Basora ([@nilbasora](https://twitter.com/nilbasora)) 👋
 
-I'm just a junior backend developer focus on DS/ML 🤖
+I'm just a backend developer focus on DS/ML 🤖
 
 I'm currently working with a research team dedicated to glycemic control in diabetic patients through data analysis and deep learning. 💉
 
